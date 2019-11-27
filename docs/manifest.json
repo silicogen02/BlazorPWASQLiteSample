@@ -1,5 +1,5 @@
 {
-  "short_name": "Blazor PWAS QLite",
+  "short_name": "Blazor PWA SQLite",
   "name": "BlazorPWASQLite",
   "start_url": "./",
   "display": "standalone",
